@@ -12,6 +12,7 @@ A nextbot avatar for Figura.
 ## Customization
 - The image can be easily swapped out as long as it has the same name ("texture.png")
 - Sounds can go in the "sounds" folder and are accessed via the action wheel (technically you can place them in the root folder as well).
+  - **WARNING:** Sounds must all mono and NOT stereo or they will be played for everyone all across the world! This will probably piss them off and lead to your avatar being blocked.
 - The size it renders can be modified via variables at line 9 (renderSizeX, renderSizeY).
 
 ## Copyright
