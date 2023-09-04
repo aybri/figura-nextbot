@@ -3,6 +3,12 @@ A nextbot avatar for Figura.
 
 ![image](https://github.com/EmeraldImpulse7/figura-nextbot/assets/61766021/abe65513-216c-467e-a1dd-be2a2ed89e26)
 
+## Installation
+- Click the green "Code" button
+- Click "Download ZIP"
+- Take the folder from inside the .zip file and move it inside your Figura avatars folder
+- Profit
+
 ## Customization
 - The image can be easily swapped out as long as it has the same name ("texture.png")
 - Sounds can go in the "sounds" folder and are accessed via the action wheel (technically you can place them in the root folder as well).
