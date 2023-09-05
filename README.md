@@ -1,4 +1,4 @@
-# figura-nextbot
+# f_nextbot
 A nextbot avatar for Figura.
 
 ![image](https://github.com/EmeraldImpulse7/figura-nextbot/assets/61766021/abe65513-216c-467e-a1dd-be2a2ed89e26)
