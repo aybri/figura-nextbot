@@ -1,6 +1,9 @@
 --get rid of model
 vanilla_model.ALL:setVisible(false)
 
+--remove shadow
+renderer:shadowRadius(0)
+
 --setup sprite
 local sprite = models.model.Camera:newSprite("nextbot_texture")
 sprite:setTexture(textures["texture"])
