@@ -19,3 +19,4 @@ A nextbot avatar for Figura.
 - The default texture and sound are both modified versions of assets from the roblox game "nico's nextbots."
 - The default texture (a nextbot commonly known as "Angry Munci") is a resized version of the original texture taken from "nico's nextbots." All rights to to the "nico's nextbots" developers and the creators of the original image.
 - The sound "chase" is a heavily trimmed version of the "nico's nextbots" track of the same name. All rights go to nicopatty.
+- All other assets are under the MIT License.
